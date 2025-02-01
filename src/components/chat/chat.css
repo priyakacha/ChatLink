@@ -1,6 +1,7 @@
 .chat{
     flex: 2;
-    border-left: 1px solid #dddddd35;
+    border-left: 1px solid #dddddd35 ;
+    /* border-left: 1px solid ; */
     border-right: 1px solid #dddddd35;
     height: 100%;
     display: flex;
@@ -57,6 +58,47 @@
     .center{
         padding: 20px;
         flex: 1;
+        overflow: scroll;
+        display: flex;
+        flex-direction:column ;
+        gap: 20px;
+
+        message{
+            max-width: 70%;
+            display: flex;
+            gap: 20px;      
+            
+    }
+
+    .own{
+        align-self: flex-end;
+
+        .texts{
+            p{
+                background-color: #5183fe;
+            }
+        }
+
+    }
+       
+       img{
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                object-fit: cover;
+            }
+
+            .texts{
+                flex: 1;
+                display: flex;
+                flex-direction: column;
+                gap: 5px;
+            }
+
+}
+
+    .center::-webkit-scrollbar{
+        display: none;
     }
 
     .bottom{

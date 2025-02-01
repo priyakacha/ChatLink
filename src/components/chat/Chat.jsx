@@ -28,7 +28,114 @@ const Chat = () => {
                 </div>
 
             </div>  
-            <div className="center"></div>
+            <div className="center">
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="own">
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+            </div>
+
             <div className="bottom">
             <div className="icons">
                 <img src="./img.png" alt="" />
