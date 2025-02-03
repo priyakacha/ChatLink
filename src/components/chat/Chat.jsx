@@ -37,7 +37,7 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
@@ -52,7 +52,23 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
+                <div className="message own">
+                    <div className="texts">
+                        <img src="public/Talk with your Buddy.png" alt="" />
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message">
+                    <img src="public/Talk with your Buddy.png" alt="" />
+                    <div className="texts">
+                     <p>Hello , HI , Hiw are you </p>
+                     <span>1 min ago </span>
+                    </div>
+                </div>
+
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
@@ -67,7 +83,7 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
@@ -82,7 +98,7 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
@@ -97,7 +113,7 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
@@ -112,22 +128,7 @@ const Chat = () => {
                     </div>
                 </div>
 
-                <div className="own">
-                    <div className="texts">
-                     <p>Hello , HI , Hiw are you </p>
-                     <span>1 min ago </span>
-                    </div>
-                </div>
-
-                <div className="message">
-                    <img src="public/Talk with your Buddy.png" alt="" />
-                    <div className="texts">
-                     <p>Hello , HI , Hiw are you </p>
-                     <span>1 min ago </span>
-                    </div>
-                </div>
-
-                <div className="own">
+                <div className="message own">
                     <div className="texts">
                      <p>Hello , HI , Hiw are you </p>
                      <span>1 min ago </span>
